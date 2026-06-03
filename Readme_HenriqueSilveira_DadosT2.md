@@ -45,3 +45,15 @@ Você pode rodar este projeto de duas formas (localmente ou na nuvem). Escolha a
 3. Acesse a pasta `notebook/` e abra o arquivo do notebook.
 4. Clique no botão **"Executar tudo"** (Run All) no topo do notebook.
 
+Realizando a analise proposta, foi possível chegar as seguintes conclusões:
+
+Insgights Obtidos:
+
+- 💡 #PADRÃO 1: Em todas as categorias de produtos, as mulheres são as principais compradoras, mostrando que são o públivo de maior interesse e que pode ser trabalhado formas de atrair mais compradores masculinos.
+
+- 💡 #PADRÃO 2: Os clientes daas primeiras posições da lista são estruturas familiares sem filhos, portanto, promoções focadas em "ITENS FAMILIARES" ou de grandes volumes podem não ser atrativas.
+
+- 💡 #PADRÃO 3: Em todos os dias da semana, a classe B é o publico que mais compra, portanto deve ser o principal alvo do varejo.
+ A classe A costuma ser mais frequente as quartas, verificar que tipo de oferta é oferecidas as quartas e aplica-las em outros dias da semana onde se deseja que esse público seja mais frequente.
+
+- Na análise estatistica relizada sobre os filhos, percebe-se que as familias não são grandes.
